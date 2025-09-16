@@ -1,5 +1,46 @@
 # 💫 About Me:
-# Hi there 👋, I'm Nurul — Full-Stack Developer<br><br>[![Visitors](https://img.shields.io/badge/visitor-You're%20welcome-green?style=flat&logo=github)]()<br><br>## About Me<br>Saya seorang Full-Stack Web Developer yang fokus pada pembuatan aplikasi web yang bersih, terukur, dan mudah dipelihara. Saya nyaman bekerja pada fitur end-to-end — dari desain UI/UX sampai deployment dan monitoring.<br><br>- 🔭 Saat ini membangun aplikasi manajemen magang dan dashboard analytics.<br>- 🌱 Sedang mendalami Data Visualization (ApexCharts / D3) & Cloud Deployment (Docker, CI/CD).<br>- ⚡ Suka memecahkan masalah, optimasi performa, dan membuat developer experience yang enak.<br><br>## Tech Stack<br><br>### Frontend<br>`HTML` • `CSS` • `TailwindCSS` • `Bootstrap` • `Vue.js` • `React` • `Alpine.js` • `ApexCharts`<br><br>### Backend<br>`PHP (Laravel)` • `Node.js (Express)` • `REST API` • `GraphQL` (opsional)<br><br>### Database & Storage<br>`MySQL` • `PostgreSQL` • `SQLite` • `Redis` • `S3`<br><br>### DevOps & Tools<br>`Git` • `GitHub Actions` • `Docker` • `Nginx` • `Composer` • `npm` • `Vite` • `PM2`<br><br>### Testing & Quality<br>`PHPUnit` • `Jest` • `ESLint` • `PHPStan` • `Prettier`<br><br>---<br><br>## Projects (highlight)<br>> Klik nama project untuk ke repo (ganti link dengan repo-mu).<br><br>- **SIMa - Sistem Informasi Magang**  <br>  Dashboard administrasi magang, notifikasi berbasis JSON, laporan statistik, dan visualisasi data (ApexCharts).  <br>  _Teknologi:_ Laravel, Blade, MySQL, ApexCharts, Docker.<br><br>- **Portal Alumni & Career**  <br>  Aplikasi CRUD untuk manajemen alumni, integrasi autentikasi, dan fitur pencarian lapangan kerja.  <br>  _Teknologi:_ Vue.js, Express, PostgreSQL.
+# Hi there 👋, I'm Nurul — Full-Stack Developer  
+
+[![Visitors](https://img.shields.io/badge/visitor-You're%20welcome-green?style=flat&logo=github)]()  
+
+## About Me  
+I am a Full-Stack Web Developer passionate about building clean, scalable, and maintainable web applications.  
+I enjoy working on end-to-end features — from UI/UX design to deployment and monitoring.  
+
+- 🔭 Currently developing an internship management system and analytics dashboard.  
+- 🌱 Learning more about Data Visualization (ApexCharts / D3) & Cloud Deployment (Docker, CI/CD).  
+- ⚡ Enjoy problem-solving, performance optimization, and creating a great developer experience.  
+
+## Tech Stack  
+
+### Frontend  
+`HTML` • `CSS` • `TailwindCSS` • `Bootstrap` • `Vue.js` • `React` • `Alpine.js` • `ApexCharts`  
+
+### Backend  
+`PHP (Laravel)` • `Node.js (Express)` • `REST API` • `GraphQL` (optional)  
+
+### Database & Storage  
+`MySQL` • `PostgreSQL` • `SQLite` • `Redis` • `S3`  
+
+### DevOps & Tools  
+`Git` • `GitHub Actions` • `Docker` • `Nginx` • `Composer` • `npm` • `Vite` • `PM2`  
+
+### Testing & Quality  
+`PHPUnit` • `Jest` • `ESLint` • `PHPStan` • `Prettier`  
+
+---  
+
+## Highlighted Projects  
+> Click on the project name to view the repository (replace with your repo links).  
+
+- **SIMa - Internship Information System**  
+  An administration dashboard for internship management with JSON-based notifications, statistical reports, and data visualization using ApexCharts.  
+  _Tech stack:_ Laravel, Blade, MySQL, ApexCharts, Docker.  
+
+- **Alumni & Career Portal**  
+  A CRUD application for alumni management, integrated authentication, and job search features.  
+  _Tech stack:_ Vue.js, Express, PostgreSQL.  
+
 
 
 ## 🌐 Socials:
